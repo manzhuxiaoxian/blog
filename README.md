@@ -4,3 +4,4 @@
 1. git pull --rebase origin develop
 2. git pull
 3. git push --set-upstream origin develop
+4. git checkout -b develop
